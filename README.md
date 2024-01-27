@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=zanutt&color=006bed)
 
-**Matheus Zanutto Gaspar**
+**Matheus Zanutto Gaspar** ![ZntPythonLogo](https://imgur.com/a/8JligsW)
 
 ## Sobre mim
 
