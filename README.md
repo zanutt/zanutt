@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=zanutt&color=006bed)
 
+**Matheus Zanutto Gaspar**
+
 ## Sobre mim
 
 - 🤔 Migrando de carreira, e estudando novas tecnologias.
@@ -39,11 +41,11 @@
 <br/>
 
 <a href="https://github.com/zanutt" title="Perfil do Matheus Z">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zanutt&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/matheus-zanutto-3325ab183/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:matszanutto@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/zanutt)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-zanutto-3325ab183/)](https://www.linkedin.com/in/matheus-zanutto-3325ab183/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matszanutto@gmail.com)](mailto:matszanutto@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/zanutt?label=follow&style=social)](https://github.com/zanutt)
