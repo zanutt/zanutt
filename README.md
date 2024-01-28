@@ -46,6 +46,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Matheus_Zanutto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-zanutto-3325ab183/)](https://www.linkedin.com/in/matheus-zanutto-3325ab183/)
+[![Linkedin](https://img.shields.io/badge/-Matheus_Zanutto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-zanutto-gaspar/)](https://www.linkedin.com/in/matheus-zanutto-gaspar/)
 [![Gmail Badge](https://img.shields.io/badge/-matszanutto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matszanutto@gmail.com)](mailto:matszanutto@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/zanutt?label=follow&style=social)](https://github.com/zanutt)
