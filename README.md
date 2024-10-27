@@ -22,7 +22,7 @@
 
 
 **Meus Projetos**
--Em construção.
+Crud API rest em django - [![GitHub](https://img.shields.io/github/followers/zanutt?label=follow&style=social)](https://github.com/zanutt/DjangoApiCrud)
 
 
 **DevOps**
