@@ -22,6 +22,7 @@
 
 
 **Meus Projetos**
+
 Crud API rest em django - [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/zanutt/DjangoApiCrud)
 
 Translator de artigos com AzureAI - [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)]((https://github.com/zanutt/AzureAI-DIO))
