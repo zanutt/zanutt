@@ -27,6 +27,8 @@ Crud API rest em django - [![GitHub](https://img.shields.io/badge/-GitHub-333333
 
 Translator de artigos com AzureAI - [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)]((https://github.com/zanutt/AzureAI-DIO))
 
+Credit card analyzer - [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)]((https://github.com/zanutt/AzureAiDoc))
+
 
 **DevOps**
 
