@@ -6,8 +6,8 @@
 
 - 🤔 Migrando de carreira, e estudando novas tecnologias.
 - 🎓 Estudando Analise e Desenvolvimento de Sistemas na Unicesumar e Sistemas de Informação Uninter.
-- 💼 Trabalhando como Faturista Unimed na Santa Casa de Presidente Venceslau.
-- 🌱 Aprendendo mais sobre Python, Django, Java, Javascript, Node.js e PostgreSQL, futuramente pretendo aprender React/Angular, Typescript e outras linguagens de programação.
+- 💼 Atualemente Estagiando na Compass Uol como fullstack Dev.
+- 🌱 Aprendendo mais sobre Python, Django, Java, Javascript, Node.js e PostgreSQL, React e Typescript. Futuramente pretendo aprender outras linguagens de programação.
 
 ## Minhas Skills
 
