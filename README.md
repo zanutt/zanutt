@@ -5,9 +5,9 @@
 ## Sobre mim
 
 - 🤔 Migrando de carreira, e estudando novas tecnologias.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas na Unicesumar e Sistemas de Informação Uninter.
-- 💼 Atualemente Estagiando na Compass Uol como fullstack Dev.
-- 🌱 Aprendendo mais sobre Python, Django, Java, Javascript, Node.js e PostgreSQL, React e Typescript. Futuramente pretendo aprender outras linguagens de programação.
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas.
+- 💼 Atualmente trabalhando como analista de dados.
+- 🌱 Aprendendo mais sobre Python, Django, Java, Javascript, Node.js e PostgreSQL, React e Typescript. Sempre apto a aprender outras linguagens de programação.
 
 ## Minhas Skills
 
